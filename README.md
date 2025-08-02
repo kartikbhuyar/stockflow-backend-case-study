@@ -6,7 +6,7 @@ This repository contains my submission for the Backend Intern Case Study at Bynr
 ## 📦 Contents
 
 ### 🔹 Part 1: Code Review & Fixes
-- [corrected_create_product.py](./part1_code_review/corrected_create_product.py): Refactored and validated API endpoint for creating a product and initializing inventory.
+- [create_product.py](./part1_code_review/corrected_create_product.py): Refactored and validated API endpoint for creating a product and initializing inventory.
 
 ### 🔹 Part 2: Database Design
 - [schema.sql](./part2_database_design/schema.sql): SQL schema for the inventory management system.
